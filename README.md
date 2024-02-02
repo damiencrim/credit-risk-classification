@@ -10,6 +10,7 @@ After splitting the data into Training and Testing functions we were then able t
 Results:
 
 LRM_1-
+ 
  The Classification report for the testing data is :
               precision    recall  f1-score   support
 
